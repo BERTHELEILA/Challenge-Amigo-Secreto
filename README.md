@@ -11,4 +11,4 @@ El juego del amigo secreto es una aplicación web diseñada para el sorteo de no
 
    
 
-## (Este proyecto es parte de mi formación en JavaScript, para el curso de "Principiante en Programación" - Alura Latam.)
+> (Este proyecto es parte de mi formación en JavaScript, para el curso de "Principiante en Programación" - Alura Latam.)
